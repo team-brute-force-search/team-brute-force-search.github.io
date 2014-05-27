@@ -1,0 +1,5 @@
+markdown: kramdown
+
+exclude:
+    - params.json
+    - README.md
